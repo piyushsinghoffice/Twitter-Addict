@@ -1,4 +1,4 @@
-# Find who tweeted the most
+# Find the user who tweets the most
 
 You will be given a list of tweets
 <br/>
